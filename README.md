@@ -28,14 +28,14 @@ A real-time collaborative whiteboard application built with React, Node.js, Sock
    git clone <https://github.com/RandheerDagar/Whiteboard>
    cd <repository-name>
 2. Backend SetUp
-   - Navigate to the backend folder
+   - Navigate to the backend folder:
         cd backend
    - Install dependencies:
         npm install
    - Create a .env file with the following content:
-        PORT=5000
-        MONGODB_URL=your_mongodb_connection_string
-        JWT_SECRET=your_jwt_secret
+        PORT=5000, 
+        MONGODB_URL= "your_mongodb_connection_string",
+        JWT_SECRET="your_jwt_secret"
    - Start the backend server:
         npm start
 3. Frontend SetUp
