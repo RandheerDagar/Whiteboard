@@ -44,6 +44,11 @@ A real-time collaborative whiteboard application built with React, Node.js, Sock
    => Install dependencies:
         npm install
    => Start the development server:
-        npm start 
+        npm start
+
+## UI Images
+
+![Screenshot (383)](https://github.com/user-attachments/assets/216f988f-aef2-41b1-9848-db8a563c3e71)
+
 
 
