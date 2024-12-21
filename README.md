@@ -50,5 +50,15 @@ A real-time collaborative whiteboard application built with React, Node.js, Sock
 
 ![Screenshot (383)](https://github.com/user-attachments/assets/216f988f-aef2-41b1-9848-db8a563c3e71)
 
+![Screenshot (384)](https://github.com/user-attachments/assets/5d6ac591-4f6e-4c72-80ee-34da6dad457a)
+
+![Screenshot (385)](https://github.com/user-attachments/assets/05b93927-1a08-4bda-a204-db3d5336e354)
+
+![Screenshot (386)](https://github.com/user-attachments/assets/84885d02-12c5-4bf5-ba9f-fb5e07fac18a)
+
+![Screenshot (387)](https://github.com/user-attachments/assets/2598daea-8897-4bc1-b3ec-16f0448c32cd)
+
+
+
 
 
