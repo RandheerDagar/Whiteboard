@@ -25,7 +25,7 @@ A real-time collaborative whiteboard application built with React, Node.js, Sock
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/RandheerDagar/Whiteboard>
    cd <repository-name>
 2. Backend SetUp
    => Navigate to the backend folder
